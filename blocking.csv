@@ -1,0 +1,16 @@
+Country, Full Country Name, DNS, HTTP, HTTP diff, TCP/IP
+DE, Germany, 1, 2, 3, 4
+FR, France, 1, 2, 3, 4
+SP, Spain, 1, 3, 2, 4
+PL, Poland, 1, 2, 4, 3
+IT, Italy, 1, 3, 2, 4
+BE, Belgium, 1, 2, 3, 4
+AT, Austria, 1, 4, 3, 2
+DK, Denmark, 1, 4, 2, 2
+EE, Estonia, 1, 2, 3, 4
+FI, Finland, 1, 3, 4, 2
+HR, Croatia, 1, 2, 3, 4
+LT, Lithuania, 1, 3, 4, 2
+LU, Luxembourg, 1, 3, 4, 2
+NL, Netherlands, 1, 2, 3, 4
+RO, Romania, 1, 2, 3, 4
